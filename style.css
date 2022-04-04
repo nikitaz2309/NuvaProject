@@ -1,0 +1,1692 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+  margin: 0px;
+    font-family: 'Roboto Slab', 'Roboto', sans-serif;}
+
+
+
+/* КОДА УМАРА ------------------------------------------------------ */
+
+
+.up {
+  padding-left: 35px;
+  padding-top: 36px;
+  width: 52p.19x;
+  height: 30.75px;
+}
+.navigation {
+  font-family: Roboto;
+  display: flex;
+  margin-top: 41px;
+  margin-left: 35px;
+}
+.container-one {
+  width: 74px;
+  font-size: 10px;
+  line-height: 115%;
+  margin-right: 11.65px;
+}
+.globus {
+  width: 10.25px;
+  height: 9.79px;
+}
+.container-two {
+  width: 77px;
+  font-size: 11px;
+  line-height: 11.5px;
+}
+.clock {
+  width: 10px;
+  height: 10px;
+}
+.container-three {
+  width: 75px;
+  font-size: 10px;
+  line-height: 115%;
+}
+.calendar{
+  width: 9px;
+  height: 10px;
+}
+.text{
+  width: 292px;
+  height: 84px;
+  font-family: Roboto Slab;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  font-size: 37px;
+  font-weight: 700;
+  padding-left: 35px;
+  line-height: 117.38%;
+}
+.under-text{
+  width: 56%;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 400;
+  padding-left: 35px;
+  padding-top:8px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  line-height: 15px;
+}
+.man{
+  width: 141.66px;
+  height: 165.89px;
+  margin-left: 201px;
+  margin-right: 32px;
+}
+.background{
+  width: 225.36px;
+  height: 93.19px;
+  background-color: #1E4681;
+  transform: rotate(-4deg);
+  margin-left: 35px;
+  margin-top: 42px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  color: #FFFFFF;
+  padding-left: 13.51px;
+  padding-top: 9.79px;
+  padding-right: 13.97px;
+  line-height: 130%;
+  box-sizing: border-box;
+}
+.andrei{
+  margin: 0px;
+  margin-right: -8px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 280%;
+  text-align: right;
+  color: #FFFFFF;
+}
+.textandrei {
+  margin: 0px;
+}
+@media(min-width:834px) and (max-width:1279px){
+  body{
+      margin: 0px;
+  }
+  .up{
+      width: 64.87px;
+      height: 38.23px;
+      margin-left: 70.08px;
+      margin-top: 22px;
+  }
+  .navigation{
+      font-family: Roboto;
+      display: flex;
+      margin-top: 56.18px;
+      margin-left: 70px;
+  }
+  .container-one{
+      width: 92.66px;
+      font-size: 12px;
+      line-height: 13.8px;
+      margin-right: 14.48px;
+  }
+  .globus{
+      width: 12.74px;
+      height: 12.16px;
+  }
+  .container-two{
+      width: 81.08px;
+      font-size: 12px;
+      line-height: 13.8px;
+  }
+  .clock{
+      width: 12.74px;
+      height: 12.74px;
+  }
+  .container-three{
+      width: 82.83px;
+      font-size: 12px;
+      line-height: 115%;
+  }
+  .calendar{
+      width: 11.58px;
+      height: 12.74px;;
+  }
+  .text{
+      width: 363.72px;
+      height: 110.04px;
+      margin-left: 70.66px;
+      margin-top: 7.53px;
+      padding-left: 0px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 46px;
+      line-height: 101.38%;
+  }
+  .under-text{
+      display: flex;
+      width: 264px;
+      height: 36px;
+      margin-left: 71px;
+      margin-top: 2.75px;
+      padding-left: 0px;
+      padding-top: 0px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 150%;
+  }
+  .man{
+      width: 176.07px;
+      height: 206.18px;
+      margin-left: 515.46px;
+      margin-right: 142.48px;
+      margin-top: -132px;
+      padding-top: 0px;
+  }
+  .background{
+      width: 280.11px;
+      height: 115.83px;
+      margin-left: 233.4px;
+      margin-right: 313.09px;
+      margin-top: 29.54px;
+      background-color: #1E4681;
+      transform: rotate(-4deg);
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      color: #FFFFFF;
+      padding-left: 13.51px;
+      padding-top: 9.79px;
+      padding-right: 13.97px;
+      line-height: 130%;
+      box-sizing: border-box;
+  }
+  .andrei{
+      margin-top: 10px;
+      margin-right: 0px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 18.2px;
+      text-align: right;
+      color: #FFFFFF;
+  }
+  .textandrei{
+      margin: 0px;
+      width: 249.38px;
+      height: 65.45px;
+}
+}
+@media(min-width:1280px){
+  body{
+      margin: 0px;
+  }
+  .up{
+      width: 112px;
+      height: 66px;
+      margin-left: 121px;
+      margin-top: 21px;
+  }
+  .navigation{
+      font-family: Roboto;
+      display: flex;
+      margin-top: 97px;
+      margin-left: 121px;
+  }
+  .container-one{
+      width: 160px;
+      height: 32px;
+      font-size: 20px;
+      line-height: 23px;
+      margin-right: 25px;
+  }
+  .globus{
+      width: 22px;
+      height: 21px;
+  }
+  .container-two{
+      width: 162px;
+      font-size: 22px;
+      line-height: 23px;
+      height: 32px;
+  }
+  .clock{
+      width: 22px;
+      height: 22px;
+  }
+  .container-three{
+      width: 163px;
+      height: 32px;
+      font-size: 20px;
+      line-height: 23px;
+  }
+  .calendar{
+      width: 20px;
+      height: 22px;;
+  }
+  .text{
+      width: 628px;
+      height: 190px;
+      margin-left: 122px;
+      margin-top: 13px;
+      padding-left: 0px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 80px;
+      line-height: 101.38%;
+  }
+  .under-text{
+      display: flex;
+      width: 414px;
+      height: 62px;
+      margin-left: 122px;
+      margin-top: 5px;
+      padding-left: 0px;
+      padding-top: 0px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 150%;
+  }
+  .man{
+      width: 304px;
+      height: 356px;
+      margin-left: 890px;
+      margin-right: 246px;
+      margin-top: -231px;
+  }
+  .background{
+      width: 483.63px;
+      height: 200px;
+      margin-left: 403px;
+      margin-right: 540px;
+      margin-top: 60px;
+      background-color: #1E4681;
+      transform: rotate(-4deg);
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      color: #FFFFFF;
+      padding-left: 13.51px;
+      padding-top: 9.79px;
+      padding-right: 13.97px;
+      line-height: 32.5px;
+      box-sizing: border-box;
+  }
+  .andrei{
+      margin-top: 15px;
+      margin-right: -6px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 26px;
+      text-align: right;
+      color: #FFFFFF;
+  }
+  .textandrei{
+      margin-left: 29px;
+      margin-right: 29.9px;
+      margin-top: 21px;
+      width: 430.59px;
+      height: 113px;
+}
+}
+
+
+/* ------------------------ СТИЛИ ВЛАДА ---------------------------------------------------------------------------- */
+
+@media (max-width: 833px) {
+  .main-wrapper {
+    margin-top: 64px;
+    background-color: white;
+    padding-left: 36px;
+    font-family: 'Roboto';
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+  }
+  
+  .format-zagolovok-h2 {
+    font-family: Roboto Slab, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin-top: 0px;
+    margin-bottom:29px;
+  }
+
+  .wrapper-format-for-bloks {
+    padding-right:160px;
+  }
+
+.zagolovok-in-format-block {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size:12px;
+  color: rgb(30,70, 129);
+  margin:0px;
+  Line-height:130%;
+  margin-bottom: 10px;
+ 
+}
+
+.text-in-format-block {
+  font-size:10px;
+  font-family: Roboto;
+  line-height: 130%;
+  margin:0px;
+  margin-bottom:30px;
+  
+}
+
+
+.second-block-bigger-margin-bottom {
+  margin-bottom:30px;
+}
+
+.third-block-bigger-margin-bottom {
+  margin-bottom:20px;
+}
+
+.third-block-margin-right {
+  
+}
+
+.limit-third-block {
+  max-width:170px;
+}
+
+
+.zagolovok-chto-uznaem {
+  font-family: Roboto Slab;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 101.38%;
+  margin-bottom:25px;
+  /* display:flex;
+  justify-content: space-between; */
+}
+
+.battle-pic {
+  width:127px;
+  height:74px;
+  left:40px;
+  bottom:60px; 
+   position:relative;
+
+  border:2px solid green;
+  
+}
+
+
+
+
+.wrapper-for-ul-chto-uznaem {
+
+  padding-right:32px;
+}
+
+
+
+ .spisok-chto-uznaem {
+    padding-left:15px;
+    font-size: 12px;
+    line-height: 150%;
+  }
+
+  .dinasour-pic {
+    width:145px;
+    height:83px;
+    display:block;
+    margin:0 auto;
+  }
+
+}
+
+@media  (min-width: 833px) and (max-width: 1279px) {
+
+
+  .main-wrapper {
+    background-color: 70px;
+    padding-left: 74px;
+    font-family: 'Roboto';
+    margin: 0px;
+  }
+
+
+  .format-zagolovok-h2 {
+    font-size: 32px;
+    margin-top: 0px;
+    margin-bottom:53px;
+    
+  }
+
+.wrapper-format-for-bloks{
+  padding-right:200px;
+  display:flex;
+  font-size:11px;
+  justify-content: space-between;
+  margin-bottom:90px;
+}
+
+.zagolovok-in-format-block {
+  font-size:15px;
+  margin-bottom:5px;
+  
+}
+
+.text-in-format-block {
+  margin:0px;
+}
+
+.block-1-in-format-wrapper{
+max-width: 153px;
+
+}
+.block-2-in-format-wrapper{
+  max-width: 172px;
+}
+.block-3-in-format-wrapper {
+  max-width: 141px;
+}
+
+
+
+.zagolovok-chto-uznaem {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right:170px;
+  font-size:32px;
+  margin-bottom:0px;
+  /* display:flex;
+  justify-content: space-between; */
+}
+
+.battle-pic {
+    width:180px;
+    height:104px;
+}
+
+.wrapper-for-ul-chto-uznaem {
+  display:flex;
+  padding-right:139px;
+  
+}
+
+.spisok-chto-uznaem {
+  margin:0px;
+  padding-left:15px;
+  Font-size: 14px;
+  Line-height: 150%;
+}
+
+.wrapper-for-dinasour{
+  padding-top:90px;
+  margin-left:70px;
+}
+
+.dinasour-pic {
+  width:180px;
+  height:104px;
+}
+
+
+}
+
+
+@media  (min-width: 1280px)  {
+
+  .main-wrapper{
+    background-color: 70px;
+    padding-left: 121px;
+    font-family: 'Roboto';
+    margin: 0px;
+  }
+
+  .format-zagolovok-h2 {
+    font-size: 55px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom:90px;
+    
+  }
+
+ .wrapper-format-for-bloks{
+  padding-right:344px;
+  display:flex;
+  
+  justify-content: space-between;
+  margin-bottom:180px;
+} 
+
+ .zagolovok-in-format-block {
+  font-size:25px;
+  margin-bottom:5px;
+  
+} 
+
+ .text-in-format-block {
+  margin:0px;
+  font-size:18px;
+} 
+
+ .block-1-in-format-wrapper{
+max-width: 223px;
+
+} 
+
+ .block-2-in-format-wrapper{
+  max-width: 271px;
+} 
+ .block-3-in-format-wrapper {
+  max-width: 245px;
+} 
+
+
+
+ .zagolovok-chto-uznaem {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right:300px;
+  font-size:56px;
+  margin-bottom:0px;
+  
+} 
+
+/* к заголовку что узнаем
+  display:flex;
+  justify-content: space-between; */
+
+ .battle-pic {
+    width:274px;
+    height:160px;
+} 
+
+ .wrapper-for-ul-chto-uznaem {
+  display:flex;
+  padding-right:241px;
+  
+} 
+
+ .spisok-chto-uznaem {
+  margin:0px;
+  padding-left:15px;
+  Font-size: 24px;
+  Line-height: 150%;
+} 
+
+ .wrapper-for-dinasour{
+  padding-top:160px;
+  margin-left:70px;
+} 
+
+.dinasour-pic {
+  width:312px;
+  height:180px;
+  
+} 
+
+
+
+}
+/* СТИЛИ АДЕЛИНЫ ----------------------------------------------------------------------- */
+
+.adelina {
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+}
+/* desktop */
+@media (min-width: 1280px) {
+.adelina-pad {
+    display: none;
+}
+.adelina-mobile {
+    display: none;
+}
+.adel-header-name-programme {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adel-black-line {
+    width: 43.75%;
+    height: 14px;
+    background-color: black;
+    margin-top: 12px;
+}
+.adel-course-programme {
+    font-family: Roboto Slab;
+    font-size: 55px;
+    padding-left: 114px;
+    margin-top: 61px;
+}
+.adel-tablets {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0px;
+    padding-left: 76px;
+    padding-top: 69px;
+}
+.adel-icon {
+    width: 399px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-right: 37px;
+    margin-bottom: 41px;
+}
+#adel-icon {
+    width: 399px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-right: 37px;
+    margin-bottom: 47px;
+}
+.adel-picturecourse {
+    width: 100%;
+}
+.adel-days {
+    display: inline-block;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-top: 8px;
+    padding-left: 23px;
+    margin: 0px;
+}
+#adel-days {
+    display: inline-block;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-top: 8px;
+    padding-left: 19px;
+    margin: 0px;
+}
+.adel-date-name {
+    display: inline-block;
+    font-family: Roboto;
+    font-size: 25px;
+    padding-top: 37px;
+    padding-left: 19px;
+    margin: 0px;
+}
+#adel-date-name {
+    display: inline-block;
+    font-family: Roboto;
+    font-size: 25px;
+    padding-top: 4px;
+    padding-left: 19px;
+    margin: 0px;
+}
+}
+/* pad */
+@media (max-width: 1279px) and (min-width: 834px) {
+    .adelina-desktop {
+        display: none;
+    }
+    .adelina-mobile {
+        display: none;
+    }
+    .adel-header-name-programme{
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .adel-black-line {
+        width: 43.75%;
+        height: 8.11px;
+        background-color: black;
+        margin-top: 6px;
+    }
+    .adel-course-programme {
+        font-family: Roboto Slab;
+        font-size: 32px;
+        padding-left: 62.5px;
+    }
+    .adel-tablets {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-start;
+        margin: 0px;
+        padding-left: 41px;
+        padding-top: 39px;
+    }
+    .adel-icon {
+        width: 231.09px;
+        height: 189.97px;
+        background: #FFFFFF;
+        box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        margin-right: 21.43px;
+        margin-bottom: 23.75px;
+    }
+    #adel-icon {
+        width: 231.09px;
+        height: 189.97px;
+        background: #FFFFFF;
+        box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        margin-right: 21.43px;
+        margin-bottom: 26.06px;
+    }
+    .adel-picturecourse {
+        width: 100%;
+    }
+    .adel-days {
+        display: inline-block;
+        font-family: Roboto;
+        font-size: 17px;        
+        padding-top: 3px;
+        padding-left: 13px;
+        margin: 0px;
+    }
+    #adel-days {
+        display: inline-block;
+        font-family: Roboto;
+        font-size: 17px;        
+        padding-top: 0.5px;
+        padding-left: 12px;
+        margin: 0px;
+    }
+    .adel-date-name {
+        display: inline-block;
+        font-family: Roboto;
+        font-size: 14px;
+        padding-top: 21px;
+        padding-left: 12px;
+        margin: 0px;
+    }
+    #adel-date-name {
+        display: inline-block;
+        font-family: Roboto;
+        font-size: 14px;
+        padding-top: 3.5px;
+        padding-left: 12px;
+        margin: 0px;
+    }
+}
+/* mobile */
+@media (max-width: 833px) and (min-width: 375px ) {
+    .adelina-desktop {
+        display: none;
+    }
+    .adelina-pad {
+        display: none;
+    }
+    .adelina {
+        width: 100%;
+    }
+    .adel-header-name-programme {
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .adel-black-line {
+        width: 18.65%;
+        height: 6.52px;
+        background-color: black;
+    }
+    .adel-course-programme {
+        font-family: Roboto Slab;
+        font-size: 26px;
+        padding-left: 26px;
+        margin: 0px;
+    }
+    .adel-tablets {
+        font-family: Roboto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 47px;
+    }
+    .adel-icon {
+        width: 185.92px;
+        height: 152.84px;
+        left: 95px;
+        background: #FFFFFF;
+        box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+        border-radius: 13.9792px;
+        margin: 0px 0px 24.16px;
+    }
+    .adel-picturecourse {
+        margin: 0px;
+    }
+    .adel-days {
+        font-family: Roboto;
+        font-size: 14px;
+        padding-top: 2px;
+        padding-left: 10px;
+        margin: 0px;
+    }
+    #adel-days {
+        font-family: Roboto;
+        font-size: 14px;
+        padding-top: 1px;
+        padding-right: 6.52px;
+        padding-bottom: 0px;
+        padding-left: 9.36px;
+        margin: 0px;
+    }
+    .adel-date-name {
+        font-size: 12px;
+        padding-top: 18px;
+        padding-left: 9.5px;
+        margin: 0px;
+    }
+    #adel-date-name {
+        font-size: 12px;
+        padding-top: 1.5px;
+        padding-left: 9.5px;
+        margin: 0px;
+    }
+}
+
+/*  ---------------------СТИЛИ НИКИТЫ ------------------------------------------------------ */
+
+.part2 {
+  height: 423px;
+  min-width: 375px;
+  background-color: #EFEFEF;
+}
+.proshlo {
+  font-size: 26px;
+  font-weight: 700;
+  padding-left: 36px;
+  padding-top: 42px;
+  line-height: 26.36px;
+  margin-right: 83px;
+}
+.whiteblock {
+  height: 249px;
+  background-color: white;
+  margin-top: 28px;
+  margin-left: 36px;
+  margin-right: 32px;
+  border-radius: 14px;
+}
+.courseprepared {
+  font-size: 10px;
+  line-height: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin-left: 20px;
+  padding-top: 19px;
+  margin-right: 20px;
+}
+.kate {
+  display:flex
+}
+.katespic {
+  height: 84px;
+  margin-top: 12px;
+  margin-left: 12px;
+}
+.nameandfacebook {
+  margin-left: 6px;
+}
+.ekaterina {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  padding-top: 30px;
+}
+.ekaterinafacebook {
+  margin-top: 19px;
+  height: 17px;
+}
+.mainblock {
+  background-color: #9DC9C8;
+  min-width: 375px;
+  height: 363px;
+}
+.date {
+  font-size: 26px;
+  font-weight: 700;
+  padding-left: 34px;
+  padding-top: 58px;
+}
+.nachalo {
+  min-width: 220px;
+}
+.sent {
+  min-width: 227px;
+  margin-top: -9px;
+}
+.price {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 34px;
+  padding-top: 29px;
+}
+.rub {
+  font-family: 'Roboto', sans-serif;
+  padding-left: 34px;
+  font-size: 37px;
+  font-weight: 400;
+  margin-top: -1px;
+}
+.lowblocks {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 34px;
+  margin-top: 30px;
+}
+.firstlowblock {
+  margin-right: 30px;
+}
+.anylevel {
+  font-size: 12px;
+  width: 138px;
+  padding-left: 1px;
+}
+.course {
+  font-size: 10px;
+  width: 138px;
+  margin-top: 6px;
+  line-height: 10px;
+}
+.secondlowblock {
+  margin-right: 45px;
+}
+.rightnow {
+  font-size: 12px;
+}
+.ifyou {
+  font-size: 10px;
+  width: 140px;
+  margin-top: 6px;
+  line-height: 10px;
+}
+.mainblackblock {
+  background-color: black;
+  min-width: 375px;
+  height: 251px;
+}
+.sincro {
+  padding-top: 23px;
+  padding-left: 34px;
+}
+.pic {
+  width: 54px;
+  margin-left: 4px;
+  margin-bottom: -4px;
+}
+.icons {
+  display:flex;
+  margin-top: 13px;
+  margin-left: 3px;
+}
+.inst {
+  width: 15.38px;
+  height: 15.38px;
+}
+.facebook {
+  width: 14.91px;
+  height: 14.91px;
+  margin-left: 8.39px;
+}
+.vk {
+  width: 16.31px;
+  height: 16.31px;
+  margin-left: 9.78px;
+}
+.viber {
+  width: 15.84px;
+  height: 15.84px;
+  margin-left: 11.65px;
+}
+.contacts {
+  margin-top: 7px;
+}
+.phone {
+  display:flex;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 38px;
+  padding-top: 40px;
+}
+.phonenumber {
+  padding-left:10px;
+  padding-top: 2px;
+}
+.phonepic {
+  width: 12.58px;
+  height: 12.58px;
+}
+.mail {
+  display:flex;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 38px;
+  padding-top: 7px;
+}
+.mailpic {
+  width: 12.58px;
+  height: 8.39px;
+}
+.mailadress {
+  padding-left:10px;
+  margin-top: -1px;
+}
+.final {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  padding-left: 38px;
+  margin-top: 53px;
+}
+@media (min-width: 834px) and (max-width: 1279px) {
+  .part2 {
+      height: 451.75px;
+      box-sizing: border-box;
+      padding-top: 10px;
+      padding-left: 35px;
+  }
+  .proshlo {
+      box-sizing: border-box;
+      font-size: 32px;
+      line-height: 32.44px;
+  }
+  .whiteblock {
+      box-sizing: border-box;
+      margin-top: 43px;
+      width: 458px;
+      height: 261px;
+  }
+  .courseprepared {
+      font-size: 12px;
+      line-height: 18px;
+      margin-left: 28px;
+      padding-top: 23px;
+  }
+  .katespic {
+      margin-left: 17px;
+      width: 110px;
+      height: 98px;
+  }
+  .kate {
+      margin-left: 0px;
+      margin-top: 0px;
+  }
+  .ekaterina {
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 17.24px;
+      padding-left: 11px;
+      padding-top: 38px;
+  }
+  .ekaterinafacebook {
+      padding-left: 11px;
+  }
+  .date {
+      display:flex;
+      font-size: 32px;
+      padding-left: 71px;
+      padding-top: 99px;
+  }
+  .nachalo {
+      margin-right: 10px;
+  }
+  .sent {
+      padding-top: 8px;
+      margin-left: -3px;
+  }
+  .mainblock {
+      height: 452px;
+  }
+  .price {
+      font-size: 14px;
+      padding-left: 71px;
+      margin-top: 2px;
+  }
+  .rub {
+      font-size: 46px;
+      padding-left: 71px;
+  }
+  .lowblocks {
+      justify-content: flex-start;
+      padding-left: 70px;
+      padding-top: 10px;
+      margin-top: 28px;
+  }
+  .anylevel {
+      font-size: 14px;
+  }
+  .course {
+      padding-top: 2px;
+      width: 170px;
+  }
+  .rightnow {
+      font-size: 14px;
+  }
+  .firstlowblock {
+      margin-right: 40.5px;
+  }
+  .secondlowblock {
+      margin-right: 386px;
+  }
+  .ifyou {
+      margin-top: 8px;
+      width: 170px;
+  }
+  .mainblackblock {
+      height: 226px;
+  }
+  .sincro {
+      padding-left: 67px;
+      padding-top: 28px;
+  }
+  .pic {
+      width: 67px;
+  }
+  .inst {
+      width: 19.11px;
+      height: 19.11px;
+      padding-top: 4px;
+  }
+  .facebook {
+      width: 18.53px;
+      height: 18.53px;
+      padding-left: 3px;
+      padding-top: 4px;
+  }
+  .vk {
+      width: 20.27px;
+      height: 20.27px;
+      padding-left: 2px;
+      padding-top: 4px;
+  }
+  .viber {
+      width: 19.69px;
+      height: 19.69px;
+      padding-left: 3px;
+      padding-top: 4px;
+  }
+  .phonepic {
+      width: 15.64px;
+      height: 15.64px;
+  }
+  .mailpic {
+      width: 15.64px;
+      height: 10.43px;
+
+  }
+  .blackflex {
+      display:flex;
+      justify-content: space-between;
+  }
+  .contacts {
+      margin-right: 100px;
+      margin-top: -10px;
+  }
+  .phone {
+      font-size: 14px;
+      margin-right: 22px;
+  }
+  .phonenumber {
+    padding-left: 12px;
+  }
+  .mail {
+      margin-top: 4px;
+      font-size: 14px;
+  }
+  .mailadress {
+    padding-left: 12px;
+  }
+  .final {
+      padding-left: 70px;
+      padding-top: 30px;
+  }
+}
+@media (min-width: 1280px) {
+  .part2 {
+      height: 780px;
+      box-sizing: border-box;
+      padding-top: 49px;
+      padding-left: 86px;
+  }
+  .proshlo {
+      box-sizing: border-box;
+      font-size: 55px;
+      line-height: 55.76px;
+      font-weight: 700;
+  }
+  .whiteblock {
+      box-sizing: border-box;
+      margin-top: 69px;
+      width: 791px;
+      height: 451px;
+      border-radius: 30px;
+  }
+  .courseprepared {
+      width: 700px;
+      font-size: 20px;
+      line-height: 30px;
+      margin-left: 49px;
+      padding-top: 43px;
+  }
+  .katespic {
+      margin-left: 17px;
+      width: 190px;
+      height: 169px;
+  }
+  .kate {
+      margin-left: 10px;
+      margin-top: 20px;
+  }
+  .ekaterina {
+      font-size: 30px;
+      font-weight: 700;
+      line-height: 30.42px;
+      padding-left: 26px;
+      padding-top: 55px;
+  }
+  .ekaterinafacebook {
+      padding-top: 8px;
+      padding-left: 27px;
+      width: 32px;
+      height: 31px;
+  }
+  .date {
+      display:flex;
+      font-size: 55px;
+      padding-left: 122px;
+      padding-top: 170px;
+  }
+  .nachalo {
+      margin-right: 12px;
+  }
+  .sent {
+      padding-top: 9px;
+  }
+  .mainblock {
+      height: 780px;
+  }
+  .price {
+      font-size: 25px;
+      padding-left: 122px;
+      margin-top: 26px;
+  }
+  .rub {
+      font-size: 80px;
+      padding-left: 122px;
+  }
+  .lowblocks {
+      justify-content: flex-start;
+      padding-left: 122px;
+      padding-top: 33px;
+  }
+  .anylevel {
+      width: 294px;
+      font-size: 25px;
+  }
+  .rightnow {
+      width: 294px;
+      font-size: 25px;
+  }
+  .course {
+      margin-top: 14px;
+      line-height: 18.25px;
+      font-size: 18px;
+      width: 294px;
+  }
+  .ifyou {
+      margin-top: 14px;
+      line-height: 18.25px;
+      font-size: 18px;
+      width: 294px;
+      margin-right: 400px;
+  }
+  .firstlowblock {
+      margin-right: 0px;
+  }
+  .secondlowblock {
+      margin-left: 69px;
+  }
+  .mainblackblock {
+      height: 390px;
+  }
+  .sincro {
+      padding-left: 119px;
+      padding-top: 50px;
+  }
+  .pic {
+      width: 115px;
+  }
+  .icons {
+      margin-top: 30px;
+  }
+  .inst {
+      width: 33px;
+      height: 33px;
+  }
+  .facebook {
+      width: 32px;
+      height: 32px;
+      margin-left: 15px;
+  }
+  .vk {
+      width: 35px;
+      height: 35px;
+      padding-left: 12px;
+      margin-right: 18px;
+  }
+  .viber {
+      width: 34px;
+      height: 34px;
+  }
+  .phonepic {
+      width: 27px;
+      height: 27px;
+  }
+  .phonenumber {
+      font-size: 25px;
+  }
+  .mailpic {
+      width: 27px;
+      height: 18px;
+  }
+  .mailadress {
+      font-size: 25px;
+  }
+  .blackflex {
+      display:flex;
+  }
+  .contacts {
+      margin-top: 15px;
+      margin-left: 620px;
+  }
+  .phonenumber {
+      margin-left: 10px;
+  }
+  .mailpic {
+      margin-top: 12px;
+  }
+  .mailadress {
+      margin-top: 8px;
+      margin-left: 10px;
+  }
+  .final {
+      font-size: 18px;
+      padding-left: 123px;
+      padding-top: 90px;
+  }
+}
+
+/* СТИЛИ НИКИТЫ 2 */
+
+.aboutcourse {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 26.36px;
+    font-family: Roboto Slab;
+    margin-left: 36px;
+    margin-top: 80px;
+}
+.sometimesfilms {
+    font-family: Roboto;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    margin-top: 23px;
+    margin-left: 36px;
+    margin-right: 30.53px;
+}
+.onthiscourse {
+    padding-top: 7px;
+}
+.bigoperator {
+    height: 146.32px;
+    width: 146.78px;
+    margin-left: 113.12px;
+    margin-top: 3px;
+}
+.picandtext {
+    display:flex;
+    
+    margin-left: 35px;
+    margin-top: 55.71px;
+}
+.liltexts {
+    display: flex;
+    flex-wrap: wrap;
+    width: 210px;
+}
+.eightlessonstitle {
+    font-family: Roboto;
+    font-size: 12px;
+    line-height: 15.6px;
+    font-weight: 700;
+}
+.eightlessonstext {
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: 400;
+    width: 86px;
+    margin-top: 3px;
+}
+.twohourstitle {
+    font-family: Roboto;
+    font-size: 12px;
+    line-height: 15.6px;
+    font-weight: 700;
+    margin-left: 33.33px;
+}
+.twohourstext {
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: 400;
+    width: 86px;
+    margin-left: 33.33px;
+    margin-top: 3px;
+}
+.threeweekstitle {
+    font-family: Roboto;
+    font-size: 12px;
+    line-height: 15.6px;
+    font-weight: 700;
+    margin-top: 27px;
+}
+.threeweekstext {
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: 400;
+    width: 86px;
+    margin-top: 3px;
+}
+.liloperator {
+    position: relative;
+    width: 108.11px;
+    height: 94.59px;
+    top: 38px;
+    right: 22px;
+}
+@media(min-width:834px) and (max-width:1279px){
+    .aboutcourse {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 32.44px;
+        font-family: Roboto Slab;
+        padding-top: 18px;
+        padding-left: 35px;
+    }
+    .bigtextandbigpic {
+        display: flex;
+    }
+    .sometimesfilms {
+        width: 383.41px;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        font-family: Roboto;
+        margin-top: 20px;
+        padding-left: 35px;
+    }
+    .bigoperator {
+        margin-left: 80px;
+        margin-top: 47px;
+        width: 181.86px;
+        height: 182.44px;
+    }
+    .picandtext {
+        flex-direction: row-reverse;
+        margin-right: 183px;
+        margin-top: -13px;
+    }
+    .liloperator {
+        width: 134.37px;
+        height: 117.57px;
+        margin-left: 60px;
+    }
+    .liltexts {
+        
+        width: 370px;
+        margin-top: 83px;
+        margin-left: 50px;
+    }
+    .eightlessonstitle {
+        font-size: 15px;
+        margin-left: 3px;
+    }
+    .eightlessonstext {
+        font-size: 11px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+    .twohourstitle {
+        font-size: 15px;
+        margin-left: 55px;
+    }
+    .twohourstext {
+        font-size: 11px;
+        margin-left: 56px;
+        margin-top: 5px;
+        width: 100px;
+    }
+    .threeweekstitle {
+        font-size: 15px;
+        margin-top: 0px;
+        margin-left: 40px;
+    }
+    .threeweekstext {
+        font-size: 11px;
+        margin-left: 39px;
+        margin-top: 5px;
+    }
+}
+@media(min-width:1280px) {
+        .aboutcourse {
+            font-size: 55px;
+            font-weight: 700;
+            line-height: 55.76px;
+            font-family: Roboto Slab;
+            padding-top: 78px;
+            padding-left: 85px;
+        }
+        .bigtextandbigpic {
+            display: flex;
+        }
+        .sometimesfilms {
+            min-width: 662px;
+            height: 374px;
+            font-size: 24px;
+            font-weight: 400;
+            line-height: 36px;
+            font-family: Roboto;
+            margin-top: 35px;
+            margin-right: 0px;
+            padding-left: 85px;
+        }
+        .onthiscourse {
+            padding-top: 10px;
+        }
+        .bigoperator {
+            margin-left: 190px;
+            margin-top: 80px;
+            width: 314px;
+            height: 315px;
+        }
+        .picandtext {
+            flex-direction: row-reverse;
+            margin-right: 155px;
+            margin-top: 80px;
+        }
+        .liloperator {
+            width: 232px;
+            height: 203px;
+            margin-left: 110px;
+        }
+        .liltexts {
+            
+            width: 700px;
+            margin-top: 115px;
+            margin-left: 50px;
+        }
+        .eightlessonstitle {
+            font-size: 25px;
+            margin-left: 58px;
+        }
+        .eightlessonstext {
+            width: 150px;
+            line-height: 23.4px;
+            font-size: 18px;
+            margin-top: 18px;
+            margin-left: 58px;
+        }
+        .twohourstitle {
+            font-size: 25px;
+            margin-left: 95px;
+        }
+        .twohourstext {
+            line-height: 23.4px;
+            font-size: 18px;
+            margin-left: 96px;
+            margin-top: 15px;
+            width: 150px;
+        }
+        .threeweekstitle {
+            font-size: 25px;
+            margin-top: 0px;
+            margin-left: 92px;
+        }
+        .threeweekstext {
+            width: 150px;
+            line-height: 23.4px;
+            font-size: 18px;
+            margin-left: 92px;
+            margin-top: 17px;
+        }
+        }
